@@ -40,7 +40,7 @@ h6 {
   margin-bottom: 0;
   padding: 0 10px;
   /*=======  Update the font size to 30px */
-  font-size: 10px;
+  font-size: 30px;
 }
 
 /*======= Create a selector for ALL p tags in the site to have the following styles:
@@ -68,6 +68,7 @@ h6 {
 
 .container {
   /*======= create a width property. Set the value to 600px */
+  width: 600px;
   margin: 0 auto;
 }
 
