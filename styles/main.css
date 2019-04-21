@@ -113,7 +113,7 @@ img {
 }
 
 .contact-section {
-  border-top: 1px dashed black;
+  border-top: 1px dashed #000;
   padding: 20px 0;
 }
 
@@ -159,7 +159,7 @@ footer nav {
 
 footer a {
   margin: 10px;
-  color: black;
+  color: #000;
   text-decoration: underline;
 }
 
