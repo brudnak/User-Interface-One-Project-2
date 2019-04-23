@@ -200,7 +200,8 @@ li a {
 
 @keyframes navLinks {
   0% {
-    transform: none;
+    /* transform: none; <-- unnecessary, will remove */
+    /* Switch color to use opacity to revel different color of a div behind anchors */
     background: #f87b99;
     color: #fff;
   }
@@ -211,7 +212,8 @@ li a {
     transform: rotate(16deg);
   }
   100% {
-    transform: none;
+    /* transform: none; <-- unnecessary, will remove */
+    /* Switch color to use opacity to revel different color of a div behind anchors */
     background: #fff;
     color: #ffc0cb;
   }
